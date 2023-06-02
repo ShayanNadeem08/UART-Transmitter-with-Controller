@@ -1,5 +1,9 @@
+![Screenshot 2023-06-03 001636](https://github.com/ShayanNadeem08/UART-Transmitter-with-Controller/assets/135377655/49b70866-2992-44b0-ab4d-536b7b75ca50)
 # UART-Transmitter-with-Controller
 A repository containing Verilog implementations of a UVART Transmitter module and a Controller module for serial data transmission using a UART protocol.
+# UART self_made Design
+![20230508_115144](https://github.com/ShayanNadeem08/UART-Transmitter-with-Controller/assets/135377655/3077e07d-829b-4e2d-b821-d76fd3a69f6a)
+
 # UVART Task
 
 This repository contains the implementation of a UVART (Universal Asynchronous Receiver Transmitter) task. The task involves designing a UVART transmitter module and a controller module to control the transmission of data over a UART communication protocol.
